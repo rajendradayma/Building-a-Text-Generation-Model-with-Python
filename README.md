@@ -72,7 +72,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 ## Contact
-For any inquiries, please contact me at [your.email@example.com].
+For any inquiries, please contact me at rajendra@gmail.com].
 
 ```
 
